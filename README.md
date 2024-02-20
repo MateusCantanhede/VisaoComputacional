@@ -29,7 +29,7 @@ Através deste recurso a Inteligência Artificial extrai o texto que conseguir i
 
 
 02 - O recurso trás algumas imagens de exemplo para que você realize testes do serviço e até mesmo a possibilidade de realizar upload de uma , logo após o upload todo o texto contido na imagem aparece a direita:   
-![image](https://github.com/MateusCantanhede/VisaoComputacional/assets/19481162/c7948aa7-1b32-4165-a2a9-0eb843ffbd1f)
+![Alt text](<Captura de tela 2024-02-19 234030.png>)
 
 
 ...
